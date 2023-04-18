@@ -1,10 +1,11 @@
 Family and Relationships: aunt, baby, brother, daughter, father, friend, grandfather, grandmother, mother, sister, son, uncle
-Colors: blue, brown, green, red, yellow
+Colors: black, blue, brown, green, grey, orange, pink, purple, red, white, yellow
 Numbers: eight, five, four, hundred, thousand
-Nature: apple, autumn, bird, cloud, deer, earth, flower, forest, grass, rain, sky, snow, sun, tree, water, wind
+Nature: apple, autumn, bird, cloud, deer, earth, flower, forest, grass, rain, sky, snow, sun, tree, water, wind, beach, mountain, river, star, waterfall
 Food and Drink: beer, bread, cheese, chicken, chocolate, coffee, cup, dinner, dish, drink, egg, fish, flour, food, fork, fruit, lunch, meal, milk, potato, rice, salt, sugar, tea
 Feelings and Emotions: afraid, angry, anxious, happy, sad, surprised, excited, nervous, proud, confused
 Time: ago, always, before, early, evening, future, morning, night, now, past, present, soon, today, tomorrow, yesterday
+Time2: day, hour, minute, month, week, year
 Objects and Items: bag, ball, book, box, chair, clock, coat, door, floor, hat, key, knife, pen, phone, ring, scissors, shoe, table, umbrella, window
 Places and Locations: area, city, country, garden, home, house, room, school, street, town, village
 Actions: act, add, bite, blow, boil, borrow, brush, build, catch, climb, close, cook, cry, cut, dance, decide, drink, drive, eat, enter, escape, exercise, fall, find, finish, fold, follow, forget, forgive, freeze, give, go, grow, help, hide, hit, hold, imagine, increase, inform, invite, jump, keep, kick, kill, know, laugh, lead, learn, leave, listen, live, look, lose, love, make, meet, miss, move, need, open, paint, play, push, put, read, run, say, see, sell, send, set, shake, shoot, show, sing, sit, sleep, smile, speak, spend, stand, start, stay, stop, study, talk, teach, tell, think, throw, touch, travel, try, turn, understand, use, wait, wake, walk, want, watch, wear, win, wish, work, worry, write
@@ -19,12 +20,9 @@ Music: guitar, keyboard, microphone, piano, singer, song, trumpet, violin
 Travel: beach, camping, destination, hotel, passport, sightseeing, suitcase, ticket, vacation
 Emotions: anger, fear, joy, love, sadness, surprise, disgust
 Food: apple, banana, bread, cheese, chicken, chocolate, coffee, cookie, egg, milk, orange, pizza, rice, sandwich, tea
-Colors: black, blue, brown, green, grey, orange, pink, purple, red, white, yellow
-Nature: beach, forest, mountain, river, sky, star, tree, waterfall
 Household Items: chair, clock, curtains, lamp, mirror, pillow, rug, table, vase
 Jobs: chef, doctor, firefighter, nurse, police officer, teacher, engineer, scientist
 Objects: book, camera, keys, phone, scissors, sunglasses, umbrella, wallet, watch
 Places: airport, beach, city, park, restaurant, school, store, zoo
 Shapes: circle, square, triangle, rectangle, oval, hexagon
 Seasons: spring, summer, autumn, winter
-Time: day, hour, minute, month, week, year
