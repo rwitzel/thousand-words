@@ -31,7 +31,7 @@ filtered_words_list = [word for word in words if word not in flat_list]
 
 def write_filtered_words(filtered_words_list):
     with open("filtered_words.txt", "w") as filtered_words_file:
-        filtered_words_file.write(",".join(filtered_words_list))
+        filtered_words_file.write(", ".join(filtered_words_list))
 
 
 print(filtered_words_list)
