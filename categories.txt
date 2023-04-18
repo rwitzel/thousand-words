@@ -2,19 +2,19 @@ Family and Relationships: aunt, baby, brother, daughter, father, friend, grandfa
 Colors: black, blue, brown, green, grey, orange, pink, purple, red, white, yellow, colour, gold, silver
 Numbers: eight, five, four, hundred, thousand
 Nature: apple, autumn, bird, cloud, deer, earth, flower, forest, grass, rain, sky, snow, sun, tree, water, wind, beach, mountain, river, star, waterfall, nature, weather, moon
-Food and Drink: beer, bread, cheese, chicken, chocolate, coffee, cup, dinner, dish, drink, egg, fish, flour, food, fork, fruit, lunch, meal, milk, potato, rice, salt, sugar, tea
+Food and Drink: beer, bread, cheese, chicken, chocolate, coffee, cup, dinner, dish, drink, egg, fish, flour, food, fork, fruit, lunch, meal, milk, potato, rice, salt, sugar, tea, pepper
 Feelings and Emotions: afraid, angry, anxious, happy, sad, surprised, excited, nervous, proud, confused
 Time: ago, always, before, early, evening, future, morning, night, now, past, present, soon, today, tomorrow, yesterday
 Time2: day, hour, minute, month, week, year
 Objects and Items: bag, ball, book, box, chair, clock, coat, door, floor, hat, key, knife, pen, phone, ring, scissors, shoe, table, umbrella, window
 Objects and Items2: board, bottom, cupboard, direction, hole, list, pan, pin, plant, soap, substance, thing
-Places and Locations: area, city, country, garden, home, house, room, school, street, town, village
+Places and Locations: area, city, country, garden, home, house, room, school, street, town, village, bath, branch, hall, market
 Actions: act, add, bite, blow, boil, borrow, brush, build, catch, climb, close, cook, cry, cut, dance, decide, drink, drive, eat, enter, escape, exercise, fall, find, finish, fold, follow, forget, forgive, freeze, give, go, grow, help, hide, hit, hold, imagine, increase, inform, invite, jump, keep, kick, kill, know, laugh, lead, learn, leave, listen, live, look, lose, love, make, meet, miss, move, need, open, paint, play, push, put, read, run, say, see, sell, send, set, shake, shoot, show, sing, sit, sleep, smile, speak, spend, stand, start, stay, stop, study, talk, teach, tell, think, throw, touch, travel, try, turn, understand, use, wait, wake, walk, want, watch, wear, win, wish, work, worry, write
 Weather: breeze, cloud, cold, fog, hail, heat, lightning, rain, snow, storm, sun, thunder, wind
 Body Parts: arm, back, chest, ear, eye, face, foot, hand, head, leg, mouth, neck, nose, shoulder, stomach, teeth
 Transportation: airplane, bicycle, boat, bus, car, helicopter, motorcycle, ship, train, truck, transportation, car, tram, taxi, plane
 Clothing: blouse, boots, coat, dress, gloves, hat, jacket, jeans, pants, shirt, shoes, skirt, socks, sweater, tie
-Animals: cat, dog, elephant, fish, giraffe, lion, monkey, panda, rabbit, snake, tiger, whale, zebra
+Animals: cat, dog, elephant, fish, giraffe, lion, monkey, panda, rabbit, snake, tiger, whale, zebra, goat, pig
 Sports: baseball, basketball, football, golf, soccer, swimming, tennis, volleyball
 Technology: computer, internet, laptop, mobile, phone, software, tablet, website
 Music: guitar, keyboard, microphone, piano, singer, song, trumpet, violin
@@ -50,11 +50,11 @@ Body_Parts: bone, finger, hair, hand, head, height, knee, lip, tooth, toe
 Emotions_and_Feelings: happy, pleased, sad, silly
 Professions_and_Jobs: army, business, farmer, job, profession, team, support
 Places_and_Locations: bank, base, farm, hill, hospital, land, library, office, path, pool, station
-Actions_and_Verbs: am, attack, be, change, do, have, is, may, must, should, test, was, will
+Actions_and_Verbs: am, attack, be, change, do, have, is, may, must, should, test, was, will, chance, choice, duty, fault, game, poison, power
 Time_and_Events: event, holiday, method, nation, news, newspaper, time
 Food_and_Drink: bean, corn, juice, meat, soup, wine
 Communication and Language: answer, letter, sentence, speech, word
-Emotions and Feelings: better, clever, fine, freedom, fun, happiness, luck, please, promise
+Emotions and Feelings: better, clever, fine, freedom, fun, happiness, luck, please, promise, peace
 Actions and Verbs: are, can, except, have, is, move, position, should, type, what
 People and Relationships: boy, enemy, group, hers, hen, party
 Art and Entertainment: art, film, music
@@ -62,4 +62,5 @@ Nature and Elements: blood, duck, fever, fox, horse, jelly, noise, silver, threa
 Education and Learning: class, course, example, science, subject
 Time and Events: every, event, no, probably, time
 Health and Medicine: condition, medicine, pain, problem
-Miscellaneous: anything, bottom, heaven, how, idea, iron, life, speed, type, which
+Miscellaneous: anything, bottom, heaven, how, idea, iron, life, speed, type, which, all, an, bit, fact, hobby, some, therefore, a, general
+Weapons and Tools: gun
