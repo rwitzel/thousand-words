@@ -19,7 +19,7 @@ def read_categories():
                 continue
             if category.strip() in categories:
                 raise Exception(f"duplicate category: {category.strip()}")
-            categories[category.strip()] = re.split(r"[,\s]+", words)
+            categories[category.strip()] = re.split(r"[,\s.]+", words.strip())
     return categories
 
 

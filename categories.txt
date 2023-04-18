@@ -1,7 +1,7 @@
 Family and Relationships: aunt, baby, brother, daughter, father, friend, grandfather, grandmother, mother, sister, son, uncle
 Colors: black, blue, brown, green, grey, orange, pink, purple, red, white, yellow
 Numbers: eight, five, four, hundred, thousand
-Nature: apple, autumn, bird, cloud, deer, earth, flower, forest, grass, rain, sky, snow, sun, tree, water, wind, beach, mountain, river, star, waterfall
+Nature: apple, autumn, bird, cloud, deer, earth, flower, forest, grass, rain, sky, snow, sun, tree, water, wind, beach, mountain, river, star, waterfall, nature, weather, moon
 Food and Drink: beer, bread, cheese, chicken, chocolate, coffee, cup, dinner, dish, drink, egg, fish, flour, food, fork, fruit, lunch, meal, milk, potato, rice, salt, sugar, tea
 Feelings and Emotions: afraid, angry, anxious, happy, sad, surprised, excited, nervous, proud, confused
 Time: ago, always, before, early, evening, future, morning, night, now, past, present, soon, today, tomorrow, yesterday
@@ -11,7 +11,7 @@ Places and Locations: area, city, country, garden, home, house, room, school, st
 Actions: act, add, bite, blow, boil, borrow, brush, build, catch, climb, close, cook, cry, cut, dance, decide, drink, drive, eat, enter, escape, exercise, fall, find, finish, fold, follow, forget, forgive, freeze, give, go, grow, help, hide, hit, hold, imagine, increase, inform, invite, jump, keep, kick, kill, know, laugh, lead, learn, leave, listen, live, look, lose, love, make, meet, miss, move, need, open, paint, play, push, put, read, run, say, see, sell, send, set, shake, shoot, show, sing, sit, sleep, smile, speak, spend, stand, start, stay, stop, study, talk, teach, tell, think, throw, touch, travel, try, turn, understand, use, wait, wake, walk, want, watch, wear, win, wish, work, worry, write
 Weather: breeze, cloud, cold, fog, hail, heat, lightning, rain, snow, storm, sun, thunder, wind
 Body Parts: arm, back, chest, ear, eye, face, foot, hand, head, leg, mouth, neck, nose, shoulder, stomach, teeth
-Transportation: airplane, bicycle, boat, bus, car, helicopter, motorcycle, ship, train, truck
+Transportation: airplane, bicycle, boat, bus, car, helicopter, motorcycle, ship, train, truck, transportation, car, tram, taxi, plane
 Clothing: blouse, boots, coat, dress, gloves, hat, jacket, jeans, pants, shirt, shoes, skirt, socks, sweater, tie
 Animals: cat, dog, elephant, fish, giraffe, lion, monkey, panda, rabbit, snake, tiger, whale, zebra
 Sports: baseball, basketball, football, golf, soccer, swimming, tennis, volleyball
@@ -19,7 +19,7 @@ Technology: computer, internet, laptop, mobile, phone, software, tablet, website
 Music: guitar, keyboard, microphone, piano, singer, song, trumpet, violin
 Travel: beach, camping, destination, hotel, passport, sightseeing, suitcase, ticket, vacation
 Emotions: anger, fear, joy, love, sadness, surprise, disgust
-Food: apple, banana, bread, cheese, chicken, chocolate, coffee, cookie, egg, milk, orange, pizza, rice, sandwich, tea
+Food: apple, banana, bread, cheese, chicken, chocolate, coffee, cookie, egg, milk, orange, pizza, rice, sandwich, tea, food, soup, meat, cake, vegetable
 Household Items: chair, clock, curtains, lamp, mirror, pillow, rug, table, vase
 Jobs: chef, doctor, firefighter, nurse, police officer, teacher, engineer, scientist
 Objects: book, camera, keys, phone, scissors, sunglasses, umbrella, wallet, watch
@@ -32,7 +32,13 @@ people_and_relationships: anyone, bear, best, brave, child, children, common, co
 actions and activities: active, activity, appear, ask, begin, breathe, bring, call, care, carry, chase, come, complete, continue, control, crash, cross, destroy, develop, do, draw, dream, drop, earn, eat, enjoy, explain, fail, feed, feel, fight, fill, find, fix, fly, follow, form, free, get, give, go, happen, hate, hear, hurt, invent, join, knock, lend, let, lie, light, like, listen, lock, look, lose, love, make, meet, mind, mistake, mix, move, need, offer, open, order, pass, pay, pick, play, point, pour, press, prevent, produce, protect, provide, pull, punish, question, receive, record, remember, remind, remove, repair, repeat, reply, report, rest, result, return, rise, rob, rule, rush, sail, save, search, serve, shout, sick, signal, silence, sink, six, skill, skin, sleep, smell, smile, smoke, speak, spend, spread, stand, start, stay, stop, study, succeed, suggest
 Verbs: agree, arrive, behave, bleed, break, burn, buy, choose, collect, compare, contain, count, cover, decrease, depend, die, discover, down, dust, educate, effect, empty, expect, fit, float, fool, force, fresh, give, hope, hurry, introduce, marry, matter, mention, measure, mean, mention, obey, object, raise, reach, rent, ride, rock, seem, shine, shop, slip, sound, spell, stamp, steal, step, story, swim, take, taste, tear, visit, wash, welcome, were, wonder, yell.
 Adjectives: alone, another, any, bad, beautiful, big, both, bright, busy, careful, careless, central, certain, cheap, clean, clear, cloudy, cold, comfortable, cool, correct, dangerous, dark, dead, deep, different, difficult, dirty, double, dry, dull, dusty, easy, electric, empty, enough, equal, even, exact, expensive, extremely, false, famous, far, fast, fat, first, flat, foolish, foreign, fresh, friendly, full, funny, further, glad, glass, good, goodbye, grave, great, gray, hard, healthy, heavy, high, hot, hungry, important, kind, large, last, lazy, leaf, less, little, lonely, long, low, lower, lucky, main, modern, more, most, much, narrow, necessary, new, nice, nine, noble, noisy, normal, not, nothing, notice, number, obedient, ocean, often, oil, only, other, painful, part, perfect, petrol, photograph, piece, plastic, polite, poor, popular, possible, powerful, pretty, proper, public, quick, quiet, rainy, real, ready, rich, right, rude, sharp, shiny, similar, simple, slow, small, soft, sorry, special, spell, sport, steam, strange, strong, stupid, successful, sudden, suitable, sunny, sure, sweet, terrible, third, tidy, title, together, too, total, true, trust, ugly, unit, useful, usual, vegetable, voice, weak, wedding, weight, well, wild, wise, wonder, yard, yet, your, zero.
-Pronouns: I, me, he, she, it, its, we, you, your, who.
-Adverbs: about, again, ago, as, at, extremely, just, never, now, often, really, quite, sometimes, together, too, usually, when, where, why, yet.
-Conjunctions: and, but, else, either, for, if, nor, not, or, so, than, that, the, then, though, to, while, with.
-Prepositions: at, by, from, in, of, on, per, to, with.
+Pronouns: I, me, he, she, it, its, we, you, your, who
+Adverbs: about, again, ago, as, at, extremely, just, never, now, often, really, quite, sometimes, together, too, usually, when, where, why, yet
+Conjunctions: and, but, else, either, for, if, nor, not, or, so, than, that, the, then, though, to, while, with
+Prepositions: at, by, from, in, of, on, per, to, with
+Family: family, home, birth, bedroom, kitchen
+school: school, education, student, examination, lesson
+Money: money, cost, price, wealth, coin
+Tools: tool, hammer, ruler, screwdriver, needle
+Body: body, head, heart, hand, foot
+Communication: communication, telephone, television, radio, news
