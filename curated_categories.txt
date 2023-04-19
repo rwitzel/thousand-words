@@ -2,7 +2,6 @@ Relationships: friend, brother, sister, daughter, son, father, grandfather, gran
 People: boy, enemy, group, party, nation
 Life: baby, family, birth
 Family:
-Colors: black, blue, brown, green, orange, pink, red, white, colour, gold, silver
 Numbers: one, three, four, five, six, seven, eight, nine, ten, hundred
 Numbers Extra: number, two
 Quantities: few, lot, many, plenty, half, pair, twice
@@ -34,13 +33,18 @@ Transportation: boat, bus, car, ship, train, car, tram, taxi, plane
 Emotions (nouns): fear, love, surprise
 Feelings (adjectives): afraid, angry, happy, sad, excited
 Animals: cat, dog, elephant, fish, lion, monkey, goat, pig, hen, duck, fox, horse, jelly
-Health: fever,
-Metal: silver,
+Health and Medicine: fever, condition, medicine, pain, problem
+Colors: black, blue, brown, green, orange, pink, red, white, colour, gold, silver
+
+Emotions and Feelings: better, clever, fine, freedom, fun, luck, please, promise, peace
+Miscellaneous: anything, bottom, heaven, how, idea, iron, life, speed, type, which, all, an, bit, fact, hobby, some, therefore, a, general
 
 Misc: noise, threat
+
 Nature and Elements: air, cloud, fire, ice, moon, sky, sun, weather
 Nature: apple, autumn, bird, cloud, deer, earth, flower, forest, grass, rain, sky, snow, sun, tree, water, wind, mountain, star, nature, weather, moon
 
+Food_and_Drink: bean, corn, juice, meat, soup, wine
 
 Food: apple, bread, cheese, chicken, chocolate, coffee, egg, milk, orange, rice, tea, food, soup, meat, cake, vegetable
 
@@ -69,12 +73,8 @@ Emotions_and_Feelings: happy, pleased, sad, silly
 Professions_and_Jobs: army, business, job, team, support
 Places_and_Locations: bank, base, farm, hill, hospital, land, library, office, path, pool, station
 Actions_and_Verbs: am, attack, be, change, do, have, is, may, must, should, test, was, will, chance, choice, duty, fault, game, poison, power
-Food_and_Drink: bean, corn, juice, meat, soup, wine
 Communication and Language: answer, letter, sentence, word
-Emotions and Feelings: better, clever, fine, freedom, fun, luck, please, promise, peace
 Actions and Verbs: are, can, except, have, is, move, position, should, type, what
-Health and Medicine: condition, medicine, pain, problem
-Miscellaneous: anything, bottom, heaven, how, idea, iron, life, speed, type, which, all, an, bit, fact, hobby, some, therefore, a, general
 Weapons and Tools: gun
 Music: piano
 Travel: hotel
