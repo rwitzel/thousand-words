@@ -1,5 +1,5 @@
 Relationships: friend, brother, sister, daughter, son, father, grandfather, grandmother, mother, aunt, uncle
-People: boy, enemy, group, party
+People: boy, enemy, group, party, nation
 Life: baby, family, birth
 Family:
 Colors: black, blue, brown, green, orange, pink, red, white, colour, gold, silver
@@ -16,34 +16,36 @@ When: now, past, present, soon, ago, before, early, future
 Frequency and Inclusion: always, never, often, sometimes, usually, probably, again, every, no
 Adverbs: about, as, at, extremely, just, really, quite, together, too, yet
 Questions: when, where, why, who
-School, Education and Learning: school, education, student, examination, lesson, class, course, example, science, subject
+School, Education and Learning: school, education, student, examination, lesson, class, course, example, science, subject, method
 Money: money, cost, price, coin
 Pronouns: I, me, he, she, it, its, we, you, your
 Home: home, bedroom, kitchen
 Tools: tool, hammer, ruler, needle
-Body: body, head, heart, hand, foot, bone, finger, hair, height, knee, lip, tooth, toe
+Body: body, head, hand, arm, foot, finger, height, knee, toe, leg, back, neck, shoulder
+Head: ear, eye, face, head, hair, lip, tooth, mouth, nose
+Inner Body: heart, bone, stomach
 Communication: telephone, television, radio, news, newspaper
 Possession: hers
 Animals: cat, dog, elephant, fish, lion, monkey, goat, pig, hen
 Clothing: coat, dress, hat, shirt, skirt, tie
 Sports: football, tennis
 Technology: computer
-Emotions: fear, love, surprise
-Misc: method, nation,
+Transportation: boat, bus, car, ship, train, car, tram, taxi, plane
+Emotions (nouns): fear, love, surprise
+Feelings (adjectives): afraid, angry, happy, sad, excited
 
 Nature and Elements: air, cloud, fire, ice, moon, sky, sun, weather
 Nature: apple, autumn, bird, cloud, deer, earth, flower, forest, grass, rain, sky, snow, sun, tree, water, wind, mountain, star, nature, weather, moon
 
+Food: apple, bread, cheese, chicken, chocolate, coffee, egg, milk, orange, rice, tea, food, soup, meat, cake, vegetable
+
 Food and Drink: beer, bread, cheese, chicken, chocolate, coffee, cup, dinner, dish, drink, egg, fish, flour, food, fork, fruit, meal, milk, potato, rice, salt, sugar, tea, pepper
-Feelings and Emotions: afraid, angry, happy, sad, excited
+
 Objects and Items: bag, ball, book, box, chair, clock, coat, door, floor, hat, key, knife, pen, ring, scissors, shoe, table, window
 Objects and Items2: board, bottom, cupboard, direction, hole, list, pan, pin, plant, soap, substance, thing
 Places and Locations: area, city, country, garden, home, house, room, school, street, town, village, bath, branch, hall, market
 Actions: act, add, bite, blow, boil, borrow, brush, build, catch, climb, close, cook, cry, cut, dance, decide, drink, drive, eat, enter, escape, exercise, fall, find, finish, fold, forget, forgive, freeze, give, go, grow, help, hide, hit, hold, increase, invite, jump, keep, kill, know, laugh, lead, learn, leave, listen, live, look, lose, love, make, meet, miss, move, need, open, paint, play, push, put, read, run, say, see, sell, send, shake, shoot, show, sing, sit, sleep, smile, speak, spend, stand, start, stay, stop, study, talk, teach, tell, think, touch, travel, try, turn, understand, use, wait, wake, walk, want, watch, wear, win, wish, work, worry
 Weather: cloud, cold, rain, snow, storm, sun, wind
-Body Parts: arm, back, ear, eye, face, foot, hand, head, leg, mouth, neck, nose, shoulder, stomach
-Transportation: boat, bus, car, ship, train, car, tram, taxi, plane
-Food: apple, bread, cheese, chicken, chocolate, coffee, egg, milk, orange, rice, tea, food, soup, meat, cake, vegetable
 Household Items: chair, clock, lamp, table
 
 Objects: book, scissors, watch
