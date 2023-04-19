@@ -20,15 +20,14 @@ Questions: when, where, why, who, how, what
 School, Education and Learning: school, education, student, examination, lesson, class, course, example, science, subject, method
 Money: money, cost, price, coin
 Pronouns: I, me, he, she, it, its, we, you, your
-Home: home, bedroom, kitchen, pool
-Tools: tool, hammer, ruler, needle, scissors
+Tools: tool, hammer, ruler, needle, scissors, pin,
 Body: body, head, hand, arm, foot, finger, height, knee, toe, leg, back, neck, shoulder, skin
 Head: ear, eye, face, hair, lip, tooth, mouth, nose
 Inner Body: heart, bone, stomach, blood
 Communication: telephone, television, radio, news, newspaper
 Art and Entertainment: art, film, music
 Possession: hers
-Clothing: coat, dress, hat, shirt, skirt, tie, cloth, clothes,
+Clothing: coat, dress, hat, shirt, skirt, tie, cloth, clothes, shoe,
 Sports: football, tennis
 Technology: computer
 Transportation: boat, bus, car, ship, train, car, tram, taxi, plane
@@ -41,29 +40,27 @@ Metal: gold, silver, iron
 Conjunctions: and, but, else, either, neither, for, if, nor, or, so, than, that, then, though, to, while
 Prepositions: by, from, in, of, per
 Position: position, above, across, along, around, away, behind, below, besides, between, inside, into, middle, near, nearly, next, off, on, opposite, out, outside, over, front, top, under, up, bottom
-Direction: north, south, east, west, left, right
+Direction: direction, north, south, east, west, left, right
 Abstract Location: border, corner, entrance, ground, here, there, base
-Shape: shape, tall, thick, thin, wide, warm, cold, round, circle, square
+Shape: shape, tall, thick, thin, wide, warm, cold, round, circle, square, hole
 Condition: young, wet
 Sky: air, cloud, moon, sky, sun, star
 Weather: weather, rain, snow, wind, ice, storm
 Landscape: hill, water, mountain, earth, land, path, nature, island
-Flora: flower, forest, grass, tree
+Flora: flower, forest, grass, tree, plant, branch,
 Drink: drink, juice, wine, coffee, milk, tea, beer,
 Food: bean, corn, meat, soup, bread, cheese, chicken, chocolate, egg, rice, food, cake, flour, salt, sugar, pepper
 Fruits and Vegetables: fruit, apple, vegetable, potato,
-Meal: meal, cup, dinner, breakfast, dish, fork, knife, spoon
+Meal: meal, cup, dinner, breakfast, dish, fork, knife, spoon, pan
+Public Places: bank, farm, hospital, library, office, station, park, store, zoo, restaurant, hall, market
+Address: area, city, country, house, street, town, village
+Personal Items: bag, ball, book, clock, pen, ring,
+Home: home, bedroom, kitchen, pool, garden,
+Flat: box, chair, door, floor, key, table, window, board, cupboard, room
 DUMMY: DUMMY
 
-Personal Items: bag, ball, book, clock, pen, ring, shoe, table, window
-Flat: box, chair, door, floor, key,
+Bathroom: soap, bath,
 
-Objects and Items:
-Objects and Items2: board, cupboard, direction, hole, list, pan, pin, plant, soap, substance, thing
-
-Places: bank, farm, hospital, library, office, station
-Places: park, restaurant, store, zoo
-Places and Locations: area, city, country, garden, house, room, street, town, village, bath, branch, hall, market
 
 Emotions and Feelings: better, clever, fine, freedom, fun, luck, please, promise, peace
 
@@ -89,4 +86,4 @@ Actions_and_Verbs: am, attack, be, change, have, is, may, must, should, test, wa
 Communication and Language: answer, letter, sentence
 
 Actions and Verbs: are, can
-Miscellaneous2: gun, piano, hotel, police, fire, lamp, with, the, heaven
+Miscellaneous2: gun, piano, hotel, police, fire, lamp, with, the, heaven, list, substance, thing
