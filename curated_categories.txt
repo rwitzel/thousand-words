@@ -1,9 +1,11 @@
 Relationships: friend, brother, sister, daughter, son, father, grandfather, grandmother, mother, aunt, uncle
-People: boy, enemy, group, party, nation, woman,
+People: boy, enemy, group, party, nation, woman, man,
+People in relation: people, person, child, children, neighbour, parent, partner
+Special people: anyone, everybody, everyone, someone, gentleman, god, husband, wife, king, queen, lady, prince, member,
 Life: baby, family, birth
-Numbers: number, one, three, four, five, six, seven, eight, nine, ten, hundred
+Numbers: number, one, three, four, five, six, seven, eight, nine, ten, hundred, million,
 Numbers Extra: two
-Quantities and Share: few, lot, many, plenty, half, pair, twice, share, all, bit, some
+Quantities and Share: few, lot, many, plenty, half, pair, twice, share, all, bit, some, each,
 Dimensions: unit, age, amount, length, net, page
 Time: day, hour, minute, second, month, week, century
 Time Extra: year
@@ -16,7 +18,7 @@ Frequency and Inclusion: always, never, often, anytime, sometimes, usually, prob
 Frequency and Inclusion Extra: yes
 Adverbs: about, as, at, extremely, just, really, quite, together, too, yet
 Questions: when, where, why, who, how, what, which
-School, Education and Learning: school, education, student, examination, lesson, class, course, example, science, subject, method
+School, Education and Learning: school, education, student, examination, lesson, class, course, example, science, subject, method, pupil,
 Money: money, cost, price, coin
 Pronouns: I, me, he, she, it, its, we, you, your
 Tools: tool, hammer, ruler, needle, scissors, pin,
@@ -25,7 +27,7 @@ Head: ear, eye, face, hair, lip, tooth, mouth, nose
 Inner Body: heart, bone, stomach, blood
 Communication: telephone, television, radio, news, newspaper
 Art and Entertainment: art, film, music
-Possession: hers
+Possession: my, her, him, his, our, their, hers
 Clothing: coat, dress, hat, shirt, skirt, tie, cloth, clothes, shoe, cap, pocket, sock,
 Sports: football, tennis
 Technology: computer
@@ -39,7 +41,7 @@ Metal: gold, silver, iron, copper,
 Conjunctions: and, but, else, either, neither, for, if, nor, or, so, than, that, then, though, to, while, therefore,
 Prepositions: by, from, in, of, per
 Position: position, above, across, along, around, away, behind, below, besides, between, inside, into, middle, near, nearly, next, off, on, opposite, out, outside, over, front, top, under, up, bottom
-Direction: direction, north, south, east, west, left, right
+Direction: direction, north, south, east, west, left, right, such, these, this
 Abstract Location: border, corner, entrance, ground, here, there, base
 Shape: shape, tall, thick, thin, wide, warm, cold, round, circle, square, hole, short, size,
 Condition: young, wet
@@ -65,6 +67,14 @@ Construction: bridge,
 DUMMY: DUMMY
 
 
+female, male,
+People properties: best, brave, common, good,
+hello,
+other, several, single,
+mistake, model,
+moment,
+name, prison, private, prize, serve, sex, sheep, shelf, skill, none, something,
+
 block, card, case, flag, gift, ladder, wire, map, mark, picture, plate, structure, sword
 place, road, sand, shadow,
 space, way, noise,
@@ -73,13 +83,13 @@ birthday, born, end, old, return,
 own, safe, same, seat, shade, side, sink, sink,
  trouble, very, waste, without,
 
+
 Activity: hobby,
 Miscellaneous: anything, idea, life, speed, type, fact, general
 Misc: threat,
 
 Actions: act, add, bite, blow, boil, borrow, brush, build, catch, climb, close, cook, cry, cut, dance, decide, drive, eat, enter, escape, exercise, fall, find, finish, fold, forget, forgive, freeze, give, go, grow, help, hide, hit, hold, increase, invite, jump, keep, kill, know, laugh, lead, learn, leave, listen, live, look, lose, make, meet, miss, move, need, open, paint, play, push, put, read, run, say, see, sell, send, shake, shoot, show, sing, sit, sleep, smile, speak, spend, stand, start, stay, stop, study, talk, teach, tell, think, touch, travel, try, turn, understand, use, wait, wake, walk, want, watch, wear, win, wish, work, worry
 
-people_and_relationships: anyone, bear, best, brave, child, children, common, each, everybody, everyone, female, gentleman, god, good, hello, her, him, his, husband, king, lady, male, man, member, million, mistake, model, moment, my, name, neighbour, none, other, our, parent, partner, people, person, prince, prison, private, prize, pupil, queen, serve, several, sex, sheep, shelf, single, skill, someone, something, such, their, these, this, wife
 actions and activities: active, activity, appear, ask, begin, breathe, bring, call, care, carry, chase, come, complete, continue, control, crash, cross, destroy, develop, do, draw, dream, drop, earn, enjoy, explain, fail, feed, feel, fight, fill, fix, fly, form, free, get, happen, hate, hear, hurt, invent, join, knock, lend, let, lie, light, like, lock, mind, mix, offer, order, pass, pay, pick, point, pour, press, prevent, produce, protect, provide, pull, punish, question, receive, record, remember, remind, remove, repair, repeat, reply, report, rest, result, rise, rob, rule, rush, sail, save, search, shout, sick, signal, silence, smell, smoke, spread
 Verbs: agree, arrive, behave, bleed, break, burn, buy, choose, collect, compare, contain, count, cover, decrease, depend, die, discover, down, dust, effect, empty, expect, fit, float, fool, force, fresh, hope, hurry, introduce, marry, matter, mention, measure, mean, mention, obey, object, raise, reach, rent, ride, rock, seem, shine, shop, slip, sound, spell, stamp, steal, step, story, swim, take, taste, tear, visit, wash, welcome, were, wonder, yell
 Adjectives: alone, another, any, bad, beautiful, big, both, bright, busy, careful, careless, central, certain, cheap, clean, clear, cloudy, comfortable, cool, correct, dangerous, dark, dead, deep, different, difficult, dirty, double, dry, easy, electric, enough, equal, even, exact, expensive, false, famous, far, fast, fat, first, flat, foreign, friendly, full, funny, further, glad, glass, goodbye, grave, great, gray, hard, healthy, heavy, high, hot, hungry, important, kind, large, last, lazy, leaf, less, little, lonely, long, low, lower, main, modern, more, most, much, narrow, new, nice, noble, not, nothing, notice, ocean, oil, only, part, perfect, petrol, photograph, piece, plastic, polite, poor, popular, possible, pretty, proper, public, quick, quiet, rainy, real, ready, rich, rude, sharp, similar, simple, slow, small, soft, sorry, special, sport, steam, strange, strong, stupid, successful, sudden, suitable, sunny, sure, sweet, terrible, third, tidy, title, total, true, trust, ugly, useful, usual, voice, weak, wedding, weight, well, wild, wise, yard, zero
@@ -87,4 +97,4 @@ Emotions_and_Feelings: pleased, silly
 Professions_and_Jobs: army, business, job, team, support
 Actions_and_Verbs: am, attack, be, change, have, is, may, must, should, test, was, will, chance, choice, duty, fault, game, poison, power
 Actions and Verbs: are, can
-Miscellaneous2: gun, piano, hotel, police, fire, lamp, with, a, an, the, heaven, list, substance, thing
+Miscellaneous2: gun, piano, hotel, police, fire, lamp, with, a, an, the, heaven, list, substance, thing, bear,
