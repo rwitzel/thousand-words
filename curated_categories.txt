@@ -4,7 +4,7 @@ Life: baby, family, birth
 Family: 
 Numbers: one, three, four, five, six, seven, eight, nine, ten, hundred
 Numbers Extra: number, two
-Quantities: few, lot, many, plenty, half, pair, twice
+Quantities and Share: few, lot, many, plenty, half, pair, twice, share, all, bit, some
 Dimensions: unit, age, amount, length, net, page
 Time: day, hour, minute, second, month, week, century
 Time Extra: year
@@ -12,7 +12,7 @@ Special Time and Events: event, holiday
 Day: evening, morning, night, today, tomorrow, yesterday, tonight
 Seasons: spring, summer, autumn, winter
 When: now, past, present, soon, ago, before, early, future
-Time Sequence: after, already, ever, late, lately, period, since, still
+Time Sequence: after, already, ever, late, lately, period, since, still, until,
 Frequency and Inclusion: always, never, often, anytime, sometimes, usually, probably, again, every, no, except
 Frequency and Inclusion Extra: yes
 Adverbs: about, as, at, extremely, just, really, quite, together, too, yet
@@ -37,16 +37,16 @@ Animals: cat, dog, elephant, fish, lion, monkey, goat, pig, hen, duck, fox, hors
 Health and Medicine: fever, condition, medicine, pain, problem
 Colors: black, blue, brown, green, orange, pink, red, white, colour,
 Metal: gold, silver, iron
-Conjunctions: and, but, else, either, neither, for, if, nor, or, so, than, that, then, though, to, while
+Conjunctions: and, but, else, either, neither, for, if, nor, or, so, than, that, then, though, to, while, therefore,
 Prepositions: by, from, in, of, per
 Position: position, above, across, along, around, away, behind, below, besides, between, inside, into, middle, near, nearly, next, off, on, opposite, out, outside, over, front, top, under, up, bottom
 Direction: direction, north, south, east, west, left, right
 Abstract Location: border, corner, entrance, ground, here, there, base
-Shape: shape, tall, thick, thin, wide, warm, cold, round, circle, square, hole
+Shape: shape, tall, thick, thin, wide, warm, cold, round, circle, square, hole, short, size,
 Condition: young, wet
 Sky: air, cloud, moon, sky, sun, star
 Weather: weather, rain, snow, wind, ice, storm
-Landscape: hill, water, mountain, earth, land, path, nature, island
+Landscape: hill, water, mountain, earth, land, path, nature, island, world,
 Flora: flower, forest, grass, tree, plant, branch,
 Drink: drink, juice, wine, coffee, milk, tea, beer,
 Food: bean, corn, meat, soup, bread, cheese, chicken, chocolate, egg, rice, food, cake, flour, salt, sugar, pepper
@@ -61,17 +61,18 @@ DUMMY: DUMMY
 
 Bathroom: soap, bath,
 
+place, road, sand, shadow,
+space, way, noise,
 
 Emotions and Feelings: better, clever, fine, freedom, fun, luck, please, promise, peace
 
 birthday, born, end, old, return,
-own, place, road, safe, same, sand, seat, shade, shadow, share, short, side, sink, size, sink,
- space, trouble, until, very,  waste, way, without, word, world,
+own, safe, same, seat, shade, side, sink, sink,
+ trouble, very,  waste, without,
 
-Miscellaneous: anything, idea, life, speed, type, which, all, an, fact, hobby, some, therefore, a, general
-Misc: noise, threat, bit
-
-
+Activity: hobby,
+Miscellaneous: anything, idea, life, speed, type, which,  an, fact, general
+Misc: threat,
 
 Actions: act, add, bite, blow, boil, borrow, brush, build, catch, climb, close, cook, cry, cut, dance, decide, drive, eat, enter, escape, exercise, fall, find, finish, fold, forget, forgive, freeze, give, go, grow, help, hide, hit, hold, increase, invite, jump, keep, kill, know, laugh, lead, learn, leave, listen, live, look, lose, make, meet, miss, move, need, open, paint, play, push, put, read, run, say, see, sell, send, shake, shoot, show, sing, sit, sleep, smile, speak, spend, stand, start, stay, stop, study, talk, teach, tell, think, touch, travel, try, turn, understand, use, wait, wake, walk, want, watch, wear, win, wish, work, worry
 
@@ -83,7 +84,7 @@ Objects_and_Items: basket, bed, bell, block, bottle, bowl, bridge, candle, cap, 
 Emotions_and_Feelings: pleased, silly
 Professions_and_Jobs: army, business, job, team, support
 Actions_and_Verbs: am, attack, be, change, have, is, may, must, should, test, was, will, chance, choice, duty, fault, game, poison, power
-Communication and Language: answer, letter, sentence
+Communication and Language: answer, word, letter, sentence
 
 Actions and Verbs: are, can
-Miscellaneous2: gun, piano, hotel, police, fire, lamp, with, the, heaven, list, substance, thing
+Miscellaneous2: gun, piano, hotel, police, fire, lamp, with, a, the, heaven, list, substance, thing
