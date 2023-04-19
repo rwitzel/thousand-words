@@ -18,7 +18,7 @@ Frequency and Inclusion: always, never, often, anytime, sometimes, usually, prob
 Frequency and Inclusion Extra: yes
 Adverbs: about, as, at, extremely, just, really, quite, together, too, yet
 Questions: when, where, why, who, how, what, which
-School, Education and Learning: school, education, student, examination, lesson, class, course, example, science, subject, method, pupil,
+Learning: school, education, student, examination, lesson, class, course, example, science, subject, method, pupil,
 Money: money, cost, price, coin
 Pronouns: I, me, he, she, it, its, we, you, your
 Tools: tool, hammer, ruler, needle, scissors, pin, ladder, wire,
