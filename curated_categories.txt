@@ -47,7 +47,7 @@ Shape: shape, tall, thick, thin, wide, warm, cold, round, circle, square, hole, 
 Condition: young, wet
 Sky: air, cloud, moon, sky, sun, star
 Weather: weather, rain, snow, wind, ice, storm
-Landscape: hill, water, mountain, earth, land, path, nature, island, world, stone,
+Geography: hill, water, mountain, earth, land, path, nature, island, world, stone,
 Flora: flower, forest, grass, tree, plant, branch,
 Drink: drink, juice, wine, coffee, milk, tea, beer,
 Food: bean, corn, meat, soup, bread, cheese, chicken, chocolate, egg, rice, food, cake, flour, salt, sugar, pepper
@@ -83,8 +83,11 @@ birthday, born, end, old, return,
 own, safe, same, seat, shade, side, sink, sink,
  trouble, very, waste, without,
 
+# Categories: Sweets, Snacks, Housing, Dairy, Cooking, Environment, Energy, Materials, Artifacts,
+# Philosophy, Law, Military, Shopping, Housing, Agriculture, Baking
+# Gambling, Travel
 
-Activity: hobby,
+Leisure: hobby,
 Miscellaneous: anything, idea, life, speed, type, fact, general
 Misc: threat,
 
