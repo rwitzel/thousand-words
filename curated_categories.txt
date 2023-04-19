@@ -3,7 +3,7 @@ People: boy, enemy, group, party, nation, woman, man,
 People in relation: people, person, child, children, neighbour, parent, partner
 Special people: anyone, everybody, everyone, someone, gentleman, god, husband, wife, king, queen, lady, prince, member,
 Life: baby, family, birth
-Numbers: number, one, three, four, five, six, seven, eight, nine, ten, hundred, million,
+Numbers: number, zero, one, three, four, five, six, seven, eight, nine, ten, hundred, million,
 Numbers Extra: two
 Quantities and Share: few, lot, many, plenty, half, pair, twice, share, all, bit, some, each,
 Dimensions: unit, age, amount, length, net, page
@@ -29,14 +29,14 @@ Communication: telephone, television, radio, news, newspaper
 Art and Entertainment: art, film, music
 Possession: my, her, him, his, our, their, hers
 Clothing: coat, dress, hat, shirt, skirt, tie, cloth, clothes, shoe, cap, pocket, sock,
-Sports: football, tennis
+Sports: sport, football, tennis
 Technology: computer
 Transportation: boat, bus, car, ship, train, car, tram, taxi, plane
 Emotions (nouns): fear, love, surprise
 Feelings (adjectives): afraid, angry, happy, sad, excited
 Animals: cat, dog, elephant, fish, lion, monkey, goat, pig, hen, duck, fox, horse, jelly, bird, deer
 Health and Medicine: fever, condition, medicine, pain, problem
-Colors: black, blue, brown, green, orange, pink, red, white, colour,
+Colors: black, blue, brown, green, orange, pink, red, white, colour, gray,
 Metal: gold, silver, iron, copper,
 Conjunctions: and, but, else, either, neither, for, if, nor, or, so, than, that, then, though, to, while, therefore,
 Prepositions: by, from, in, of, per
@@ -46,9 +46,9 @@ Abstract Location: border, corner, entrance, ground, here, there, base
 Shape: shape, tall, thick, thin, wide, warm, cold, round, circle, square, hole, short, size,
 Condition: young, wet
 Sky: air, cloud, moon, sky, sun, star
-Weather: weather, rain, snow, wind, ice, storm
-Geography: hill, water, mountain, earth, land, path, nature, island, world, stone, map,
-Flora: flower, forest, grass, tree, plant, branch,
+Weather: weather, rain, snow, wind, ice, storm, sunny, rainy, cloudy
+Geography: hill, water, mountain, earth, land, path, nature, island, world, stone, map, ocean,
+Flora: flower, forest, grass, tree, plant, branch, leaf,
 Drink: drink, juice, wine, coffee, milk, tea, beer,
 Food: bean, corn, meat, soup, bread, cheese, chicken, chocolate, egg, rice, food, cake, flour, salt, sugar, pepper
 Fruits and Vegetables: fruit, apple, vegetable, potato,
@@ -66,11 +66,40 @@ Machine: machine, wheel
 Construction: bridge,
 DUMMY: DUMMY
 
-Adjectives: alone, another, any, bad, beautiful, big, both, bright, busy, careful, careless, central, certain, cheap, clean, clear, cloudy, comfortable, cool, correct, dangerous, dark, dead, deep, different, difficult, dirty, double, dry, easy, electric, enough, equal, even, exact, expensive, false, famous, far, fast, fat, first, flat, foreign, friendly, full, funny, further, glad, glass, goodbye, grave, great, gray, hard, healthy, heavy, high, hot, hungry, important, kind, large, last, lazy, leaf, less, little, lonely, long, low, lower, main, modern, more, most, much, narrow, new, nice, noble, not, nothing, notice, ocean, oil, only, part, perfect, petrol, photograph, piece, plastic, polite, poor, popular, possible, pretty, proper, public, quick, quiet, rainy, real, ready, rich, rude, sharp, similar, simple, slow, small, soft, sorry, special, sport, steam, strange, strong, stupid, successful, sudden, suitable, sunny, sure, sweet, terrible, third, tidy, title, total, true, trust, ugly, useful, usual, voice, weak, wedding, weight, well, wild, wise, yard, zero
+Positive Adjectives: best, brave, good, careful, polite, famous,
+Negative Adjectives: common, bad, careless,
+Size (Adjectives): big,
+Texture (Adjectives): clean, dirty, tidy, proper,
+Temperature (Adjectives): cool,
+Sound (Adjectives): quiet,
+View and Light: bright, dark, clear,
+Money: cheap, expensive,
+Risk: certain, dangerous,
+Group: foreign, friendly, alone, lonely, another, both,
+Shape (Adjectives): fat, flat, full,
+Position (Adjectives): central,
+Human appearance: beautiful, pretty, ugly,
 
+any, busy,
+comfortable, correct, dead, deep, different, difficult, double, dry, easy, electric,
+enough, equal, even, exact, false, far, fast,
+first, funny, further, glad, grave, great, hard,
+healthy, heavy, high, hot, hungry, important, kind, large, last, lazy,
+less, little, long, low, lower, main, modern, more, most, much, narrow,
+new, nice, noble, not, nothing, notice, only, part, perfect,
+piece, poor, popular, possible,
+public, quick, real, ready, rich, rude, sharp, similar, simple,
+slow, small, soft, sorry, special, strange, strong, stupid,
+successful, sudden, suitable, sure, sweet, terrible, third, title,
+total, true, trust, useful, usual, voice, weak, wedding, weight, well, wild, wise, yard,
+
+Materials: glass, oil, petrol, plastic, steam,
+goodbye,
+
+photograph,
 
 female, male,
-People properties: best, brave, common, good,
+People properties:
 hello,
 other, several, single,
 mistake, model,
