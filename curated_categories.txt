@@ -15,7 +15,7 @@ When: now, past, present, soon, ago, before, early, future
 Frequency and Inclusion: always, never, often, sometimes, usually, probably, again, every, no
 Frequency and Inclusion Extra: yes
 Adverbs: about, as, at, extremely, just, really, quite, together, too, yet
-Questions: when, where, why, who
+Questions: when, where, why, who, how,
 School, Education and Learning: school, education, student, examination, lesson, class, course, example, science, subject, method
 Money: money, cost, price, coin
 Pronouns: I, me, he, she, it, its, we, you, your
@@ -36,28 +36,24 @@ Feelings (adjectives): afraid, angry, happy, sad, excited
 Animals: cat, dog, elephant, fish, lion, monkey, goat, pig, hen, duck, fox, horse, jelly
 Health and Medicine: fever, condition, medicine, pain, problem
 Colors: black, blue, brown, green, orange, pink, red, white, colour, gold, silver
-
+DUMMY: DUMMY
 Emotions and Feelings: better, clever, fine, freedom, fun, luck, please, promise, peace
-Miscellaneous: anything, bottom, heaven, how, idea, iron, life, speed, type, which, all, an, bit, fact, hobby, some, therefore, a, general
-
-Misc: noise, threat
-
-Nature and Elements: air, cloud, fire, ice, moon, sky, sun, weather
+Position: bottom
+Miscellaneous: anything, idea, iron, life, speed, type, which, all, an,  fact, hobby, some, therefore, a, general
+Misc: noise, threat, bit
+Nature and Elements: fire, ice
+Sky: air, cloud, moon, sky, sun, weather
 Nature: apple, autumn, bird, cloud, deer, earth, flower, forest, grass, rain, sky, snow, sun, tree, water, wind, mountain, star, nature, weather, moon
-
+Religion: heaven
 Food_and_Drink: bean, corn, juice, meat, soup, wine
-
 Food: apple, bread, cheese, chicken, chocolate, coffee, egg, milk, orange, rice, tea, food, soup, meat, cake, vegetable
-
 Food and Drink: beer, bread, cheese, chicken, chocolate, coffee, cup, dinner, dish, drink, egg, fish, flour, food, fork, fruit, meal, milk, potato, rice, salt, sugar, tea, pepper
-
 Objects and Items: bag, ball, book, box, chair, clock, coat, door, floor, hat, key, knife, pen, ring, scissors, shoe, table, window
 Objects and Items2: board, bottom, cupboard, direction, hole, list, pan, pin, plant, soap, substance, thing
 Places and Locations: area, city, country, garden, home, house, room, school, street, town, village, bath, branch, hall, market
 Actions: act, add, bite, blow, boil, borrow, brush, build, catch, climb, close, cook, cry, cut, dance, decide, drink, drive, eat, enter, escape, exercise, fall, find, finish, fold, forget, forgive, freeze, give, go, grow, help, hide, hit, hold, increase, invite, jump, keep, kill, know, laugh, lead, learn, leave, listen, live, look, lose, love, make, meet, miss, move, need, open, paint, play, push, put, read, run, say, see, sell, send, shake, shoot, show, sing, sit, sleep, smile, speak, spend, stand, start, stay, stop, study, talk, teach, tell, think, touch, travel, try, turn, understand, use, wait, wake, walk, want, watch, wear, win, wish, work, worry
 Weather: cloud, cold, rain, snow, storm, sun, wind
 Household Items: chair, clock, lamp, table
-
 Objects: book, scissors, watch
 Places: city, park, restaurant, school, store, zoo
 Shapes: circle, square
