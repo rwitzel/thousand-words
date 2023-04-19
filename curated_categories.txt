@@ -1,5 +1,6 @@
 Relationships: friend, brother, sister, daughter, son, father, grandfather, grandmother, mother, aunt, uncle
-Life: baby, family, birth,
+People: boy, enemy, group, party
+Life: baby, family, birth
 Family:
 Colors: black, blue, brown, green, orange, pink, red, white, colour, gold, silver
 Numbers: one, three, four, five, six, seven, eight, nine, ten, hundred
@@ -8,32 +9,27 @@ Quantities: few, lot, many, plenty, half, pair, twice
 Dimensions: unit, age, amount, length, net, page
 Time: day, hour, minute, second, month, week, century
 Time Extra: year
+Special Time and Events: event, holiday
 Day: evening, morning, night, today, tomorrow, yesterday
 Seasons: spring, summer, autumn, winter
 When: now, past, present, soon, ago, before, early, future
-Frequency: always, never, often, sometimes, usually, again,
+Frequency and Inclusion: always, never, often, sometimes, usually, probably, again, every, no
 Adverbs: about, as, at, extremely, just, really, quite, together, too, yet
 Questions: when, where, why, who
-School: school, education, student, examination, lesson
+School, Education and Learning: school, education, student, examination, lesson, class, course, example, science, subject
 Money: money, cost, price, coin
 Pronouns: I, me, he, she, it, its, we, you, your
 Home: home, bedroom, kitchen
 Tools: tool, hammer, ruler, needle
-Body: body, head, heart, hand, foot
-Communication: telephone, television, radio, news
-
-Body_Parts: bone, finger, hair, hand, head, height, knee, lip, tooth, toe
-Time_and_Events: event, holiday, method, nation, news, newspaper
-People and Relationships: boy, enemy, group, hers, hen, party
-
-Education and Learning: class, course, example, science, subject
-Time and Events: every, event, no, probably
-
+Body: body, head, heart, hand, foot, bone, finger, hair, height, knee, lip, tooth, toe
+Communication: telephone, television, radio, news, newspaper
+Possession: hers
+Animals: cat, dog, elephant, fish, lion, monkey, goat, pig, hen
 Clothing: coat, dress, hat, shirt, skirt, tie
-Animals: cat, dog, elephant, fish, lion, monkey, goat, pig
 Sports: football, tennis
 Technology: computer
 Emotions: fear, love, surprise
+Misc: method, nation,
 
 Nature and Elements: air, cloud, fire, ice, moon, sky, sun, weather
 Nature: apple, autumn, bird, cloud, deer, earth, flower, forest, grass, rain, sky, snow, sun, tree, water, wind, mountain, star, nature, weather, moon
