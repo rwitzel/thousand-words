@@ -23,19 +23,24 @@ Home: home, bedroom, kitchen
 Tools: tool, hammer, ruler, needle
 Body: body, head, hand, arm, foot, finger, height, knee, toe, leg, back, neck, shoulder
 Head: ear, eye, face, head, hair, lip, tooth, mouth, nose
-Inner Body: heart, bone, stomach
+Inner Body: heart, bone, stomach, blood
 Communication: telephone, television, radio, news, newspaper
+Art and Entertainment: art, film, music
 Possession: hers
-Animals: cat, dog, elephant, fish, lion, monkey, goat, pig, hen
 Clothing: coat, dress, hat, shirt, skirt, tie
 Sports: football, tennis
 Technology: computer
 Transportation: boat, bus, car, ship, train, car, tram, taxi, plane
 Emotions (nouns): fear, love, surprise
 Feelings (adjectives): afraid, angry, happy, sad, excited
+Animals: cat, dog, elephant, fish, lion, monkey, goat, pig, hen, duck, fox, horse, jelly
+Health: fever,
+Metal: silver,
 
+Misc: noise, threat
 Nature and Elements: air, cloud, fire, ice, moon, sky, sun, weather
 Nature: apple, autumn, bird, cloud, deer, earth, flower, forest, grass, rain, sky, snow, sun, tree, water, wind, mountain, star, nature, weather, moon
+
 
 Food: apple, bread, cheese, chicken, chocolate, coffee, egg, milk, orange, rice, tea, food, soup, meat, cake, vegetable
 
@@ -68,8 +73,6 @@ Food_and_Drink: bean, corn, juice, meat, soup, wine
 Communication and Language: answer, letter, sentence, word
 Emotions and Feelings: better, clever, fine, freedom, fun, luck, please, promise, peace
 Actions and Verbs: are, can, except, have, is, move, position, should, type, what
-Art and Entertainment: art, film, music
-Nature and Elements: blood, duck, fever, fox, horse, jelly, noise, silver, threat
 Health and Medicine: condition, medicine, pain, problem
 Miscellaneous: anything, bottom, heaven, how, idea, iron, life, speed, type, which, all, an, bit, fact, hobby, some, therefore, a, general
 Weapons and Tools: gun
