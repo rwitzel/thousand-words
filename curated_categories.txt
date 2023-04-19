@@ -1,8 +1,8 @@
 Relationships: friend, brother, sister, daughter, son, father, grandfather, grandmother, mother, aunt, uncle
 People: boy, enemy, group, party, nation, woman,
 Life: baby, family, birth
-Numbers: one, three, four, five, six, seven, eight, nine, ten, hundred
-Numbers Extra: number, two
+Numbers: number, one, three, four, five, six, seven, eight, nine, ten, hundred
+Numbers Extra: two
 Quantities and Share: few, lot, many, plenty, half, pair, twice, share, all, bit, some
 Dimensions: unit, age, amount, length, net, page
 Time: day, hour, minute, second, month, week, century
