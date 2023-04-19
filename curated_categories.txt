@@ -1,7 +1,6 @@
 Relationships: friend, brother, sister, daughter, son, father, grandfather, grandmother, mother, aunt, uncle
 People: boy, enemy, group, party, nation, woman,
 Life: baby, family, birth
-Family: 
 Numbers: one, three, four, five, six, seven, eight, nine, ten, hundred
 Numbers Extra: number, two
 Quantities and Share: few, lot, many, plenty, half, pair, twice, share, all, bit, some
