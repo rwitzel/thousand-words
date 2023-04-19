@@ -13,6 +13,7 @@ Day: evening, morning, night, today, tomorrow, yesterday
 Seasons: spring, summer, autumn, winter
 When: now, past, present, soon, ago, before, early, future
 Frequency and Inclusion: always, never, often, sometimes, usually, probably, again, every, no
+Frequency and Inclusion Extra: yes
 Adverbs: about, as, at, extremely, just, really, quite, together, too, yet
 Questions: when, where, why, who
 School, Education and Learning: school, education, student, examination, lesson, class, course, example, science, subject, method
