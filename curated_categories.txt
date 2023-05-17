@@ -125,10 +125,10 @@ Misc: threat,
 
 ### BEGIN TO BE REVIEWED
 
-Nature and Elements: blow, boil, freeze, grow
+Nature and Elements: blow, grow, boil, freeze
 Health and Well-being: exercise, sleep, rest, sick
 Authority and Influence: command, direct, lead, order, rule
-Possession and Exchange: borrow, buy, collect, lend, rent, sell, steal
+Possession and Exchange: buy, sell, collect, borrow, lend, rent, steal
 Conflict and Opposition: fight, oppose, resist
 Time and Sequential Actions: begin, complete, continue, finish, open, start
 Environmental Interactions and Conditions: catch, climb, close, fall, find, fold, hide, hold, lose, move, open, put, shake, show, spread
