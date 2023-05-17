@@ -123,10 +123,33 @@ Leisure: hobby,
 Miscellaneous: anything, idea, life, speed, type, fact, general
 Misc: threat,
 
-Actions: act, add, bite, blow, boil, borrow, brush, build, catch, climb, close, cook, cry, cut, dance, decide, drive, eat, enter, escape, exercise, fall, find, finish, fold, forget, forgive, freeze, give, go, grow, help, hide, hit, hold, increase, invite, jump, keep, kill, know, laugh, lead, learn, leave, listen, live, look, lose, make, meet, miss, move, need, open, paint, play, push, put, read, run, say, see, sell, send, shake, shoot, show, sing, sit, sleep, smile, speak, spend, stand, start, stay, stop, study, talk, teach, tell, think, touch, travel, try, turn, understand, use, wait, wake, walk, want, watch, wear, win, wish, work, worry
+### BEGIN TO BE REVIEWED
 
-actions and activities: active, activity, appear, ask, begin, breathe, bring, call, care, carry, chase, come, complete, continue, control, crash, cross, destroy, develop, do, draw, dream, drop, earn, enjoy, explain, fail, feed, feel, fight, fill, fix, fly, form, free, get, happen, hate, hear, hurt, invent, join, knock, lend, let, lie, light, like, lock, mind, mix, offer, order, pass, pay, pick, point, pour, press, prevent, produce, protect, provide, pull, punish, question, receive, record, remember, remind, remove, repair, repeat, reply, report, rest, result, rise, rob, rule, rush, sail, save, search, shout, sick, signal, silence, smell, smoke, spread
-Verbs: agree, arrive, behave, bleed, break, burn, buy, choose, collect, compare, contain, count, cover, decrease, depend, die, discover, down, dust, effect, empty, expect, fit, float, fool, force, fresh, hope, hurry, introduce, marry, matter, mention, measure, mean, mention, obey, object, raise, reach, rent, ride, rock, seem, shine, shop, slip, sound, spell, stamp, steal, step, story, swim, take, taste, tear, visit, wash, welcome, were, wonder, yell
+Nature and Elements: blow, boil, freeze, grow
+Health and Well-being: exercise, sleep, rest, sick
+Authority and Influence: command, direct, lead, order, rule
+Possession and Exchange: borrow, buy, collect, lend, rent, sell, steal
+Conflict and Opposition: fight, oppose, resist
+Time and Sequential Actions: begin, complete, continue, finish, open, start
+Environmental Interactions and Conditions: catch, climb, close, fall, find, fold, hide, hold, lose, move, open, put, shake, show, spread
+Learning and Education: learn, study, teach
+Leisure and Entertainment: act, dance, eat, listen, look, play, read, sing, sit, smile, speak, spend, stand, talk, think, touch, travel, walk, watch, wear, win
+Work and Productivity: build, cook, decide, drive, help, increase, meet, need, paint, run, say, see, send, shoot, stay, stop, teach, tell, try, turn, understand, use, work
+Desires and Intentions: add, escape, forget, forgive, give, go, invite, jump, keep, know, leave, worry
+Perception and Observation: bite, brush, cry, enter, hit, laugh, miss
+Caring for Oneself and Others: cut, kill, miss, care, feed, help, listen, protect, save, support, understand
+Social Interactions and Relationships: appear, ask, borrow, bring, call, carry, chase, come, develop, dream, drop, enjoy, explain, fail, feel, give, hear, hurt, invent, join, knock, let, lie, like, listen, mention, pass, pay, pick, pour, provide, receive, remind, reply, report, shout, signal, speak, spell, step, story, take, tear, visit, wash, welcome
+Creation and Construction: blow, boil, control, crash, cross, destroy, do, draw, earn, fill, fix, fly, form, free, get, light, lock, mix, offer, point, press, prevent, produce, pull, record, result, rise
+Movement and Transportation: arrive, behave, choose, depend, discover, down, float, force, introduce, raise, reach, ride, rock, seem, slip, swim
+Cognitive Processes and Decision-Making: compare, contain, count, decrease, expect, matter, mean, object, obey
+Emotional States and Reactions: hate
+Communication and Expression: agree, communicate, express, say, speak, talk, yell
+Physical Actions: bleed, break, burn, cover, stamp
+Unsorted mainly verbs: active, activity, breathe, happen, mind, smoke, die, dust, effect, empty, fool, fresh, hope, hurry, marry, shine, shop, sound, taste, were, wonder
+
+### END TO BE REVIEWED
+
+
 Emotions_and_Feelings: pleased, silly
 Professions_and_Jobs: army, business, job, team, support
 Actions_and_Verbs: am, attack, be, change, have, is, may, must, should, test, was, will, chance, choice, duty, fault, game, poison, power
