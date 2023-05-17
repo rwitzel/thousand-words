@@ -121,14 +121,12 @@ own, safe, same, seat, shade, side, sink, sink,
 
 Leisure: hobby,
 Miscellaneous: anything, idea, life, speed, type, fact, general
-Misc: threat,
-
 
 Nature and Elements: blow, grow, boil, freeze
 Health and Well-being: exercise, sleep, rest, sick
 Authority and Influence: lead, order, rule
 Possession and Exchange: buy, sell, collect, borrow, lend, rent, steal
-Conflict: agree, fight
+Conflict: agree, fight, threat
 Time and Sequential Actions: begin, complete, continue, finish, start
 Learning and Education: learn, study, teach
 Emotional States and Reactions: hate
