@@ -127,9 +127,9 @@ Misc: threat,
 
 Nature and Elements: blow, grow, boil, freeze
 Health and Well-being: exercise, sleep, rest, sick
-Authority and Influence: command, direct, lead, order, rule
+Authority and Influence: lead, order, rule
 Possession and Exchange: buy, sell, collect, borrow, lend, rent, steal
-Conflict and Opposition: fight, oppose, resist
+Conflict and Opposition: fight
 Time and Sequential Actions: begin, complete, continue, finish, open, start
 Environmental Interactions and Conditions: catch, climb, close, fall, find, fold, hide, hold, lose, move, open, put, shake, show, spread
 Learning and Education: learn, study, teach
@@ -143,7 +143,7 @@ Creation and Construction: blow, boil, control, crash, cross, destroy, do, draw,
 Movement and Transportation: arrive, behave, choose, depend, discover, down, float, force, introduce, raise, reach, ride, rock, seem, slip, swim
 Cognitive Processes and Decision-Making: compare, contain, count, decrease, expect, matter, mean, object, obey
 Emotional States and Reactions: hate
-Communication and Expression: agree, communicate, express, say, speak, talk, yell
+Communication and Expression: agree, say, speak, talk, yell
 Physical Actions: bleed, break, burn, cover, stamp
 Unsorted mainly verbs: active, activity, breathe, happen, mind, smoke, die, dust, effect, empty, fool, fresh, hope, hurry, marry, shine, shop, sound, taste, were, wonder
 
